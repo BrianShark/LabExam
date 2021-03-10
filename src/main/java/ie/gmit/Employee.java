@@ -1,3 +1,8 @@
+/*
+* Brian Sharkey - Lab Exam 2021
+* Program to represent employees on and employees list with testing
+* */
+
 package ie.gmit;
 
 public class Employee {
@@ -21,7 +26,7 @@ public class Employee {
         }
         else
         {
-            throw new IllegalArgumentException("Name provided is not valid");
+            throw new IllegalArgumentException("Name provided is not valid.");
         }
 
 
