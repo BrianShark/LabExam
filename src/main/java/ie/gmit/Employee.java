@@ -26,7 +26,7 @@ public class Employee {
         }
         else
         {
-            throw new IllegalArgumentException("Name provided is not valid.");
+            throw new IllegalArgumentException("Name provided is not valid");
         }
 
 
